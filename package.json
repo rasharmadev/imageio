@@ -19,7 +19,7 @@
     "framer-motion": "^12.5.0",
     "lucide-react": "^0.485.0",
     "react": "^19.0.0",
-    "react-dom": "^19.0.0",
+    "react-dom": "^19.1.1",
     "react-router-dom": "^7.4.1",
     "react-syntax-highlighter": "^15.6.1",
     "react-toastify": "^11.0.5",
